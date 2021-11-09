@@ -1,1 +1,105 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T11:49:21.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.2.9" etag="5LUvstTZITiVYIERj2ce" type="github"><diagram id="Rl-dp1uTTsIUElVlN93m">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-09T12:16:30.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="KarrCvZlkdNTuE_UpdPq" version="15.2.9" type="github" pages="5">
+  <diagram id="Rl-dp1uTTsIUElVlN93m" name="Main">
+    <mxGraphModel dx="1550" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="erb10iivS1S1x5EPyDLV-1" value="Studerande i Helsingfors berättar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="erb10iivS1S1x5EPyDLV-2" value="&lt;h1&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;En sida som länkar till andra sidor med studentberättelser. VArje sida länkar till de andra berättelsena förutom Gul i stan som innehåller länkar till YLE arena.&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="10" width="230" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="erb10iivS1S1x5EPyDLV-3" value="Astrid Lagg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="erb10iivS1S1x5EPyDLV-4" value="Antonia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="erb10iivS1S1x5EPyDLV-5" value="&lt;a href=&quot;data:page/id,LqvTO7F2Nbu7_1jnRLuu&quot;&gt;Sandra&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="erb10iivS1S1x5EPyDLV-6" value="Henrik" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="erb10iivS1S1x5EPyDLV-7" value="Henna" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="erb10iivS1S1x5EPyDLV-8" value="Tyra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="erb10iivS1S1x5EPyDLV-9" value="Gul i stan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="erb10iivS1S1x5EPyDLV-10" value="Lina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="erb10iivS1S1x5EPyDLV-11" value="Gaspare" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="erb10iivS1S1x5EPyDLV-12" value="Isac" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LqvTO7F2Nbu7_1jnRLuu" name="Sandra">
+    <mxGraphModel dx="1550" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="VxaQ1OF0ADFzvrVrNlNj-0" />
+        <mxCell id="VxaQ1OF0ADFzvrVrNlNj-1" parent="VxaQ1OF0ADFzvrVrNlNj-0" />
+        <mxCell id="2AdqGtbU7OA-IyN3AsQR-1" value="Youtube-klipp på Aaltos YT-konto med Sandra Schröder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VxaQ1OF0ADFzvrVrNlNj-1">
+          <mxGeometry x="354" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="V4KgMheRcjJ7U16pHACv" name="Henna">
+    <mxGraphModel dx="1550" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="BWz7wsB7tHu1zdYnCCai-0" />
+        <mxCell id="BWz7wsB7tHu1zdYnCCai-1" parent="BWz7wsB7tHu1zdYnCCai-0" />
+        <mxCell id="vvMLiLZ8vrIuEoBMceHj-0" value="Youtube-klipp på Hankens YT-konto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BWz7wsB7tHu1zdYnCCai-1">
+          <mxGeometry x="320" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Lr7ot88Getd9hxcN7MyO" name="Henrik">
+    <mxGraphModel dx="1550" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="2GMmRqaH_AOAQPeslCmO-0" />
+        <mxCell id="2GMmRqaH_AOAQPeslCmO-1" parent="2GMmRqaH_AOAQPeslCmO-0" />
+        <mxCell id="JGgFWbzGZzYK_N1p7p_v-0" value="Henrik Stubb" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2GMmRqaH_AOAQPeslCmO-1">
+          <mxGeometry x="260" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JGgFWbzGZzYK_N1p7p_v-1" value="&lt;a href=&quot;https://www.helsinki.fi/sv&quot;&gt;Extern länk till Helsingfors universitet&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2GMmRqaH_AOAQPeslCmO-1">
+          <mxGeometry x="360" y="200" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JGgFWbzGZzYK_N1p7p_v-2" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2GMmRqaH_AOAQPeslCmO-1" source="JGgFWbzGZzYK_N1p7p_v-0" target="JGgFWbzGZzYK_N1p7p_v-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="240" as="sourcePoint" />
+            <mxPoint x="440" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GXG6I4iUWmcvy3QVs5NL" name="Gul i stan">
+    <mxGraphModel dx="1550" dy="3047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="LsF9Zj4Il6dlQBK9lAK_-0" />
+        <mxCell id="LsF9Zj4Il6dlQBK9lAK_-1" parent="LsF9Zj4Il6dlQBK9lAK_-0" />
+        <mxCell id="LYnsqN-hq3fwYwSyiIHT-0" value="Gul i Stan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="LsF9Zj4Il6dlQBK9lAK_-1">
+          <mxGeometry x="350" y="-2320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LYnsqN-hq3fwYwSyiIHT-1" value="&lt;h1&gt;Beskrivning&lt;/h1&gt;&lt;p&gt;Innehåller flertalet länkar till YLE Arena med klipp från 2018. Klippen är tillgängliga tillsvidare. Länkningen måste ses över.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="LsF9Zj4Il6dlQBK9lAK_-1">
+          <mxGeometry x="550" y="-2310" width="190" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
