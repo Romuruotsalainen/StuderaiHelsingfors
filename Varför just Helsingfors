@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T11:32:33.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.2.9" etag="zucf-ouKszvVeQerMKgq" type="github"><diagram id="M06d799_5-Xm9EnjJv-n">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-11T12:27:36.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="3cdGP5Hl4a9N3Xzn5IeR" version="15.2.9" type="github" pages="4">
+  <diagram id="M06d799_5-Xm9EnjJv-n" name="Main">
+    <mxGraphModel dx="1550" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jfZiHT_4NgQMDNOXQrVD-1" value="Varför just Helsingfors?" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfZiHT_4NgQMDNOXQrVD-2" value="&lt;a href=&quot;data:page/id,NX6KECiftPo0XKXjulDd&quot;&gt;Fem anledningar att studera i Helsingfors&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfZiHT_4NgQMDNOXQrVD-4" value="" style="endArrow=none;html=1;entryX=0.094;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;" edge="1" parent="1" target="jfZiHT_4NgQMDNOXQrVD-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="51" y="290" as="sourcePoint" />
+            <mxPoint x="120" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="51" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfZiHT_4NgQMDNOXQrVD-5" value="&lt;a href=&quot;data:page/id,exbnuXHwxZ0yPIkpLii8&quot;&gt;Studenter berättar&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfZiHT_4NgQMDNOXQrVD-6" value="&lt;a href=&quot;data:page/id,MiTPrX2gdkvdnyTJVubB&quot;&gt;Studera i Finland&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfZiHT_4NgQMDNOXQrVD-7" value="" style="endArrow=none;html=1;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="149.5" as="sourcePoint" />
+            <mxPoint x="70" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfZiHT_4NgQMDNOXQrVD-8" value="" style="endArrow=none;html=1;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="219.5" as="sourcePoint" />
+            <mxPoint x="70" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfZiHT_4NgQMDNOXQrVD-9" value="" style="endArrow=none;html=1;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="289.5" as="sourcePoint" />
+            <mxPoint x="70" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NX6KECiftPo0XKXjulDd" name="Fem anledningar att studera i Helsingfors">
+    <mxGraphModel dx="1550" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="XTrYBXY0PU2rUEKsRZRU-0" />
+        <mxCell id="XTrYBXY0PU2rUEKsRZRU-1" parent="XTrYBXY0PU2rUEKsRZRU-0" />
+        <mxCell id="GicXHNdrRF3LQLlPdS4E-0" value="&lt;a href=&quot;https://www.studeraihelsingfors.fi/helsingfors/&quot;&gt;Fem anledningar att studera i Helsingfors&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="XTrYBXY0PU2rUEKsRZRU-1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GicXHNdrRF3LQLlPdS4E-1" value="Helsingforsalliansens högskolor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="XTrYBXY0PU2rUEKsRZRU-1">
+          <mxGeometry x="80" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="exbnuXHwxZ0yPIkpLii8" name="Studenter berättar">
+    <mxGraphModel dx="1550" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="7eVOutLAkxxWu6jy9R4L-0" />
+        <mxCell id="7eVOutLAkxxWu6jy9R4L-1" parent="7eVOutLAkxxWu6jy9R4L-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MiTPrX2gdkvdnyTJVubB" name="Studera i Finland">
+    <mxGraphModel dx="1550" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="km8CIyn6I3su92IdMcF0-0" />
+        <mxCell id="km8CIyn6I3su92IdMcF0-1" parent="km8CIyn6I3su92IdMcF0-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
